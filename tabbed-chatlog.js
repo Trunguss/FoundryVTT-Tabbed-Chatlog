@@ -99,7 +99,7 @@ Hooks.on("renderChatLog", async function (chatLog, html, user) {
     let toPrepend = '<nav class="tabbedchatlog tabs">';
     toPrepend += `<a class="item ic" data-tab="ic">${game.i18n.localize("TC.TABS.IC")}</a><i id="icNotification" class="notification-pip fas fa-exclamation-circle" style="display: none;"></i>`;
     toPrepend += `<a class="item rolls" data-tab="rolls">${game.i18n.localize("TC.TABS.Rolls")}</a><i id="rollsNotification" class="notification-pip fas fa-exclamation-circle" style="display: none;"></i>`;
-    toPrepend += `<a class="item ooc" data-tab="ooc">"FUBAR"</a></nav><i id="oocNotification" class="notification-pip fas fa-exclamation-circle" style="display: none;"></i>`;
+    toPrepend += `<a class="item ooc" data-tab="ooc">"FUBAR1"</a></nav><i id="oocNotification" class="notification-pip fas fa-exclamation-circle" style="display: none;"></i>`;
     html.prepend(toPrepend);
 
     window.game.tabbedchat = {};
