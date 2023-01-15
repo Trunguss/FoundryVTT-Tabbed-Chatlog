@@ -2,7 +2,7 @@
 	"name": "tabbed-chatlog-X",
 	"title": "Tabbed Chatlog X",
 	"description": "Splits the Chatlog into In Character (per scene), Rolls (per scene), and Out of Character (global).",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"minimumCoreVersion": "0.8.0",
 	"compatibleCoreVersion": "9",
 	"author": "Cody Swendrowski <cody@swendrowski.us>, Trunguss",
@@ -47,5 +47,5 @@
 	],
 	"url": "https://github.com/Trunguss/FoundryVTT-Tabbed-Chatlog",
 	"manifest": "https://github.com/Trunguss/FoundryVTT-Tabbed-Chatlog/releases/latest/download/module.json",
-	"download": "https://github.com/Trunguss/FoundryVTT-Tabbed-Chatlog/releases/download/v1.0.3/module.zip"
+	"download": "https://github.com/Trunguss/FoundryVTT-Tabbed-Chatlog/releases/download/v1.0.4/module.zip"
 }
